@@ -2,4 +2,4 @@ For the Narrative Visualization Project in Data Visualization, I designed a webs
 
 Kaggle dataset link: https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams 
 
-Website URL: https://varunlaga.github.io
+Website URL: https://varunlaga.github.io/Narrative-Visualization/
